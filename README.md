@@ -12,7 +12,7 @@
 - ⚡ Fun fact **I think robots and machine learning related things are the coolest**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://www.linkedin.com/in/aldenshockey-datascientist/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
