@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **Alden.B.Shockey@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1O9jpjaytIf93aJgjITjk6Uc0oSNsCKPjTrFarG7CStA/edit?usp=sharing](https://docs.google.com/document/d/1O9jpjaytIf93aJgjITjk6Uc0oSNsCKPjTrFarG7CStA/edit?usp=sharing)
-
 - ⚡ Fun fact **I think robots and machine learning related things are the coolest**
 
 <h3 align="left">Connect with me:</h3>
